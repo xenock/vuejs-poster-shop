@@ -24,6 +24,6 @@
   },
   "devDependencies": {
     "nodemon": "^1.11.0",
-    "reload": "^1.1.0"
+    "reload": "^3.0.3"
   }
 }
